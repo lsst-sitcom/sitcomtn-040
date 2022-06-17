@@ -1,0 +1,9 @@
+% bibentry template for lsst.bib in https://github.com/lsst/lsst-texmf/blob/main/texmf/bibtex/bib/lsst.bib
+
+@DocuShare{SITCOMTN-040,
+   author = { Elana Urbach },
+    title = {Aux Tel Accelerometer Analysis},
+     year = 2022,
+    month = Jun,
+   handle = {SITCOMTN-040},
+      url = {https://sitcomtn-040.lsst.io } }
